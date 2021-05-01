@@ -31,3 +31,4 @@ Forecast of the Lebanese Lira for October 2020
     - Consumer Price Index
     - Market sentiment by analyzing news headline sentiment -NLP
 - Developing a web-scraping tool to automate the collection of black market rates
+    - Current Database can be found here but needs updating: https://drive.google.com/file/d/1QdvyOmDmC3m_muG2ZHd5XtCseBT9ch-5/view?usp=sharing
